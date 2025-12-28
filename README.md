@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-I AM GOWTHAM SANAPA IAM A FUTURE DATA ANALYST
+I AM GOWTHAM SANAPA IAM MAYBE A ASPRING DATA ANALYST OR SOFTWARE ENGINEER 
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
