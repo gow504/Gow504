@@ -13,6 +13,10 @@ I AM GOWTHAM SANAPA IAM MAYBE A ASPRING DATA ANALYST OR SOFTWARE ENGINEER
 ![Mathematics](https://img.shields.io/badge/Mathematics-000000?style=for-the-badge&logo=canonical&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/MongoDB-150458?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/microsoft365-150458?style=for-the-badge&logo=Microsoft365&logoColor=white)
+
+
 
 STATS:
 
